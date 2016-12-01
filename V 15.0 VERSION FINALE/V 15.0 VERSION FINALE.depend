@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1480530899 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<string>
+	"console.h"
+	"joueur.h"
+	"cordonnees.h"
+	"case.h"
+	"piece.h"
+	"pion.h"
+	"utils.h"
+
+1480501527 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\console.h
+	<iostream>
+
+1480501527 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1480501748 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\joueur.cpp
+	"joueur.h"
+
+1480501748 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\joueur.h
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1480501899 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\cordonnees.cpp
+	"cordonnees.h"
+
+1480501899 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\cordonnees.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	"joueur.h"
+
+1480502032 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\case.cpp
+	"case.h"
+
+1480502031 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\case.h
+	"joueur.h"
+	"cordonnees.h"
+	<string>
+
+1480502163 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\piece.h
+	"joueur.h"
+	"cordonnees.h"
+	<string>
+	"case.h"
+
+1480502163 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\piece.cpp
+	"piece.h"
+
+1480502360 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\pion.h
+	"joueur.h"
+	"cordonnees.h"
+	<string>
+	"case.h"
+	"piece.h"
+
+1480502360 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\pion.cpp
+	"pion.h"
+
+1480518499 c:\users\romain\programation\c++\projet 1\v 15.0 version finale\utils.h
+	<iostream>
+	<map>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<string>
+	"console.h"
+	"joueur.h"
+	"cordonnees.h"
+	"case.h"
+	"piece.h"
+	"pion.h"
+
+1480535346 source:c:\users\romain\programation\c++\projet 1\v 15.0 version finale\utils.cpp
+	"utils.h"
+	<ctime>
+
